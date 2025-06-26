@@ -12,8 +12,12 @@ app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded());
 
-app.get('/', (req, res) => {
-    res.send('Hello, World!');
+app.use('/', (req,res) => {
+  res.send('Hello to Memories API');
+})
+
+app.get('/keep-alive', (req, res) => { //ping
+  res.status(200).send('OK');
 });
 
 app.use('/auth', authRoutes);
