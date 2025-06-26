@@ -13,7 +13,7 @@ app.use(express.json());
 app.use(express.urlencoded());
 
 app.use('/', (req,res) => {
-  res.send('Hello to Memories API');
+  res.send('Hello to Chatly API');
 })
 
 app.get('/keep-alive', (req, res) => { //ping
