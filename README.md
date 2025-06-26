@@ -9,17 +9,18 @@
 
 ## 🚀 Features
 
-- 🔐 User authentication: Sign up and log in securely
-- 💬 Real-time messaging via channels or direct messages
-- 🧑‍🤝‍🧑 Group chat (channels) and direct user-to-user messaging
-- ✏️ Edit channel name and manage participants
-- 🔍 Search functionality for finding channels and users
-- 🖼️ Media support: Send images and YouTube links (previewable in-chat)
-- 😄 Emoji and GIF support via /giphy [text]
-- ❤️ React to messages with emojis
-- ✏️ Edit/delete messages
-- 🧵 Threaded replies to individual messages
-- 📱 Responsive design for mobile, tablet, and desktop 
+- 🔐 User authentication: Sign up and log in securely  
+- 💬 Real-time messaging via channels or direct messages  
+- 🧑‍🤝‍🧑 Group chat (channels) and direct user-to-user messaging  
+- 👥 See how many users are currently online in a group or DM  
+- ✏️ Edit channel name and manage participants  
+- 🔍 Search functionality for finding channels and users  
+- 🖼️ Media support: Send images and YouTube links (previewable in-chat)  
+- 😄 Emoji and GIF support via `/giphy [text]`  
+- ❤️ React to messages with emojis  
+- ✏️ Edit/delete messages  
+- 🧵 Threaded replies to individual messages  
+- 📱 Responsive UI across all devices
 
 ---
 
