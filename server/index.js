@@ -12,12 +12,8 @@ app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded());
 
-app.use('/', (req,res) => {
-  res.send('Hello to Chatly API');
-})
-
-app.get('/keep-alive', (req, res) => { //ping
-  res.status(200).send('OK');
+app.get('/', (req, res) => {
+    res.send('Hello, World!');
 });
 
 app.use('/auth', authRoutes);
