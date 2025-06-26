@@ -3,7 +3,7 @@
 
 **Chatify** is a full-stack real-time messaging web app that enables users to communicate one-on-one or in groups. Users can sign up, create or join channels, send text messages, media files, emojis, GIFs, and YouTube links, and even reply to specific messages in threads. It’s optimized for modern devices and provides a dynamic, interactive chat experience using Stream Chat API.
 
-![Home Screenshot](./screenshots/Home.PNG)
+![Home Screenshot](./screenshots/direct.PNG)
 
 ---
 
@@ -148,17 +148,17 @@ App will run at: `http://localhost:3000`
 ## 🖼️ Screenshots
 
 ### 🏠 Direct Chat
-![Home](./screenshots/Home.PNG)
+![Home](./screenshots/direct.PNG)
 
 ---
 
 ### 📝 Group Chat
-![Post](./screenshots/post.PNG)
+![Post](./screenshots/group.PNG)
 
 ---
 
 ### 👤 Threads
-![Profile](./screenshots/profile.PNG)
+![Profile](./screenshots/threads.PNG)
 
 ---
 
