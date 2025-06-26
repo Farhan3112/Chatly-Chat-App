@@ -16,6 +16,10 @@ app.get('/', (req, res) => {
     res.send('Hello, World!');
 });
 
+app.get('/keep-alive', (req, res) => { //ping
+  res.status(200).send('OK');
+});
+
 app.use('/auth', authRoutes);
 
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
