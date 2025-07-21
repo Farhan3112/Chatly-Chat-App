@@ -22,4 +22,5 @@ app.get('/keep-alive', (req, res) => { //ping
 
 app.use('/auth', authRoutes);
 
-app.listen(PORT, () => console.log(Server running on port ${PORT}));
+app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+
