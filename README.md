@@ -142,7 +142,7 @@ App will run at: `http://localhost:3000`
 
 ## 🌐 Live Demo
 
-🔗 [Live App on Render](https://chatly-client-j6u8.onrender.com)
+🔗 [Live App on Render](https://chatly-client-18es.onrender.com)
 
 ---
 
